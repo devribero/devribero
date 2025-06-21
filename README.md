@@ -38,18 +38,15 @@
 
 💬 Quer colaborar em um projeto criativo e inovador? Estou sempre aberto a novas ideias e parcerias. Entre em contato comigo para discutirmos como podemos criar algo verdadeiramente extraordinário juntos. ✉️
 
+## 📊 Estatísticas de Codificação da Semana
+
+<p>⏱ Atualizado automaticamente com [WakaTime](https://wakatime.com) todos os dias</p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Github Stats  
 <table>
   <img src="https://github-readme-stats.vercel.app/api?username=devribero&show_icons=true&count_private=true&hide_border=true" align="left" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devribero&hide_border=true&layout=compact" align="right" width="35%"/>
 </table>
-
-## 📊 Estatísticas de Codificação da Semana
-
-⏱ Atualizado automaticamente com [WakaTime](https://wakatime.com) todos os dias
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
