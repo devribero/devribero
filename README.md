@@ -46,3 +46,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devribero&hide_border=true&layout=compact" align="right" width="35%"/>
 
 </table>
+
+## Carga Horaria Semanal
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
