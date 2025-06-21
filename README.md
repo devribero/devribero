@@ -40,14 +40,16 @@
 
 ## Github Stats  
 <table>
-
-<img src="https://github-readme-stats.vercel.app/api?username=devribero&show_icons=true&count_private=true&hide_border=true" align="left" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devribero&hide_border=true&layout=compact" align="right" width="35%"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=devribero&show_icons=true&count_private=true&hide_border=true" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devribero&hide_border=true&layout=compact" align="right" width="35%"/>
 </table>
 
-## Carga Horaria Semanal
+## 📊 Estatísticas de Codificação da Semana
+
+⏱ Atualizado automaticamente com [WakaTime](https://wakatime.com) todos os dias
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+---
+
