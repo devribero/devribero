@@ -8,6 +8,8 @@
 
 ✨ Sou um desenvolvedor que curte desafios criativos e busca sempre soluções fora do comum. Meu objetivo é ir além do básico, unindo a lógica da programação com um toque de originalidade para criar projetos que sejam úteis, inovadores e que façam a diferença de verdade. ✨
 
+![Última música ouvida](https://lastfm-recently-played.vercel.app/api?user=riberooo)
+
 ## Habilidades Tecnológicas
 
 <div align="center">  
