@@ -11,7 +11,7 @@
 ## 🎵 Música que estou ouvindo agora
 
 <!--START_SECTION:music-->
-🎧 Tocando agora: [nome da música] - [artista]
+🎧 Tocando agora: nada tocando no momento
 <!--END_SECTION:music-->
 
 ## Habilidades Tecnológicas
